@@ -3,4 +3,4 @@ Hello world,
 Hello suzhou.
 hello jiangsu.	
 creating a new branch is quick.
-fuck & simple
+fuck and simple
